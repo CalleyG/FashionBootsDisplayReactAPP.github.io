@@ -1,0 +1,99 @@
+/*  Styles for Project 1-1- Build & Debug
+    Author: Calley Garvin
+*/
+/*CSS created for Project 1-1*/
+
+/*Styles the container*/
+#container {
+    padding: 50px;
+    background-color: #FFB6C1;
+    display:flex; 
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', 'sans-serif';
+    color:#8B008B;
+    
+    
+  
+}
+
+/*Styles the h1 and h2 tags*/
+
+h1 {
+   font-size: 50px;
+    text-align: center;
+    color: #FFB6C1;
+  }
+
+  h2 {
+    font-size: 25px;
+     text-align: center;
+     color: #FFB6C1;
+   }
+  
+  
+  
+  
+   ID that centers the validation text 
+  #validations {
+    text-align: center;
+  }
+  
+  /*add a margin around the entire footer */
+  footer {
+    margin: 10px;
+    text-align: center;
+  }
+/*This centers my image for Project 1-1*/
+  .centerboots {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  
+  } 
+
+  /* ID that styles the first Like button */
+  #like_my_boots {
+  padding: 15px;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+}
+
+/* ID that styles the second Like button */
+#like_my_boots2 {
+  padding: 15px;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+}
+
+/* ID that styles the third Like button */
+#like_my_boots3 {
+  padding: 15px;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+}
+
+/* ID that styles the fourth Like button */
+#like_my_boots4 {
+  padding: 15px;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+}
+
+/* ID that styles the fifth Like button */
+#like_my_boots5 {
+  padding: 15px;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+}
+
+
+
+
+
+  
